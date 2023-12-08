@@ -53,9 +53,5 @@ message ChapterDetailByIdRsp{
   int32 ChapterId = 3;//关卡id
 }
 
-message Test{
-
-}
-
 
 
